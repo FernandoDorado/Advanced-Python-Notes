@@ -1,14 +1,10 @@
 # Advanced Python Notes
 
-Este repositorio contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio/avanzados. Ha sido traducido por la comunidad ellibrodepython.com
+Este repositorio contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio/avanzados. Ha sido traducido por la comunidad ellibrodepython.com. Este repositorio solo incluye las notas tomadas por mi en connjunto que ejemplos adicionales que permitan entender mejor los conceptos explicados en dicho libro. 
 
 # Tabla de Contenido
 
-1. [Uso de *args y **kwargs]()
-    * Uso de *args
-    * Uso de **kwargs
-    * Usando *args y **kwargs para llamar a una función
-    * ¿Cuándo usarlos?
+1. [Uso de *args y **kwargs](https://github.com/FernandoDorado/Advanced-Python-Notes/blob/main/1%20-%20Uso%20args%20y%20kwargs.ipynb)
 2. Depurando
 3. Generadores
     * Iterable
