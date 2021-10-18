@@ -1,10 +1,10 @@
-# Advanced-Python-Notes
+# Advanced Python Notes
 
 Este repositorio contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio/avanzados. Ha sido traducido por la comunidad ellibrodepython.com
 
 # Tabla de Contenido
 
-1. Uso de *args y **kwargs
+1. [Uso de *args y **kwargs]()
     * Uso de *args
     * Uso de **kwargs
     * Usando *args y **kwargs para llamar a una función
