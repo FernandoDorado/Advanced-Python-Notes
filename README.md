@@ -5,7 +5,7 @@ Este repositorio contiene una serie de tutoriales y ejemplos en Python para un n
 # Tabla de Contenido
 
 1. [Uso de *args y **kwargs](https://github.com/FernandoDorado/Advanced-Python-Notes/blob/main/1%20-%20Uso%20args%20y%20kwargs.ipynb)
-2. Depurando
+2. [Depurando](https://github.com/FernandoDorado/Advanced-Python-Notes/blob/main/2%20-%20Depurando.ipynb)
 3. Generadores
     * Iterable
     * Iterador
