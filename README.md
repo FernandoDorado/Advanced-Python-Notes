@@ -1,4 +1,4 @@
-# Advanced Python Notes
+# Intermediated Python Notes
 
 Este repositorio contiene una serie de tutoriales y ejemplos en Python para un nivel intermedio/avanzados. Ha sido traducido por la comunidad ellibrodepython.com. Este repositorio solo incluye las notas tomadas por mi en connjunto que ejemplos adicionales que permitan entender mejor los conceptos explicados en dicho libro. 
 
